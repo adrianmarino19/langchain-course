@@ -46,3 +46,4 @@ if __name__ == '__main__':
 
 
 # What about doing something more cryptic, like puttin the LinkedIn profiles of people for example? I think it'd be funny :).
+# Moving onto traditional machine learning my friend.
